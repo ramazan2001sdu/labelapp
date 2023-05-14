@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "162386717401",
+    "project_id": "label-music-acae2",
+    "storage_bucket": "label-music-acae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162386717401:android:7b467070174dc0f724ecc8",
+        "android_client_info": {
+          "package_name": "com.labelapp.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162386717401-pscd82h16ged277oains9a24e5embhjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJep9HDpHcKh6SioDcnnHdplWDuQlQK3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162386717401-pscd82h16ged277oains9a24e5embhjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162386717401-4deafccntc624vhug23va232r9g1ehfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.labelapp.music"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
